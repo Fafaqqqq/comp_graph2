@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/fafaq/repos/projects/cpp/comp_graphics/lab2/.build/example/Debug",
+  "command": "/usr/bin/c++ -g -std=gnu++14 -o example/CMakeFiles/lab1.dir/src/main.cpp.o -c /home/fafaq/repos/projects/cpp/comp_graphics/lab2/example/src/main.cpp",
+  "file": "/home/fafaq/repos/projects/cpp/comp_graphics/lab2/example/src/main.cpp"
+}
+]
